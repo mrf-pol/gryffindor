@@ -1,0 +1,5 @@
+{
+  "name" : "mediaBlog",
+  "tenantName" : "potter.com",
+  "useLayoutDescriptor" : true
+}
